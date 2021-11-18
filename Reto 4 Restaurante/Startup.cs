@@ -25,7 +25,7 @@ namespace Restaurante
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //NUVO COMENTARIO
+       
             //SERVICIO CORS QUE ADMITE TODAS LAS PETICIONES DE DIFERENTES ORIGENES
             services.AddCors(c =>
             {
