@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hy5IPVlgwJtEoj5zUvolwiXa4RJG+uyfc5KFU/JkbdJ320iNGG/OzBNlcTn/GBxB9Xh3TjGSO9/uLq+8/P6B6A==",
+  "dgSpecHash": "p+xeU1czE4uX+lf0uCTAEh838ryjlcRe73cjdniafcoG83tHh1RupAF+mQ3VBTvkUg4o75VobyGCuJV2ahLWSQ==",
   "success": true,
-  "projectFilePath": "D:\\Cursos\\JuvenTic\\Módulo 4 - La Data\\Reto4_Restaurante\\Reto 4 Restaurante\\Reto 4 Restaurante.csproj",
+  "projectFilePath": "D:\\Cursos\\JuvenTic\\Módulo 4 - La Data\\reto4_Restaurante\\Reto 4 Restaurante\\Reto 4 Restaurante.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
