@@ -1060,11 +1060,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Naty\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+>>>>>>> 44d469ae0b2318f6ecacf356901149a53a7dbacb
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Naty\\Documents\\juvenTic\\ciclo-4-LaData\\Reto 4 Restaurante\\Reto 4 Restaurante.csproj",
       "projectName": "Reto 4 Restaurante",
       "projectPath": "C:\\Users\\Naty\\Documents\\juvenTic\\ciclo-4-LaData\\Reto 4 Restaurante\\Reto 4 Restaurante.csproj",
@@ -1073,6 +1078,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Naty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "D:\\Cursos\\JuvenTic\\Módulo 4 - La Data\\Reto4_Restaurante\\Reto 4 Restaurante\\Reto 4 Restaurante.csproj",
+      "projectName": "Reto 4 Restaurante",
+      "projectPath": "D:\\Cursos\\JuvenTic\\Módulo 4 - La Data\\Reto4_Restaurante\\Reto 4 Restaurante\\Reto 4 Restaurante.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "D:\\Cursos\\JuvenTic\\Módulo 4 - La Data\\Reto4_Restaurante\\Reto 4 Restaurante\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 44d469ae0b2318f6ecacf356901149a53a7dbacb
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

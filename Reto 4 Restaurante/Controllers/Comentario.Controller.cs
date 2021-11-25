@@ -1,24 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using MySql.Data.MySqlClient;
+using System.Data;
 using Reto_4_Restaurante.Models;
+
 
 namespace Reto_4_Restaurante.Controllers
 {
     [Route("api/[controller]")]
+
     [ApiController]
-    public class NosotrosController : ControllerBase
+    public class ComentarioController : ControllerBase
     {
         private readonly IConfiguration _configuration;
         private readonly IWebHostEnvironment _env;
-        public NosotrosController(IConfiguration configuration, IWebHostEnvironment env)
+        public ComentarioController(IConfiguration configuration, IWebHostEnvironment env)
         {
             _configuration = configuration;
             _env = env;
@@ -29,9 +27,9 @@ namespace Reto_4_Restaurante.Controllers
         public JsonResult Get()
         {
             string query = @"
-                        select id_nosotros,historia,imagen
+                        select id, usuario, descripcion
                         from 
-                        nosotros
+                        comentario
             ";
 
             DataTable table = new DataTable();
@@ -53,21 +51,13 @@ namespace Reto_4_Restaurante.Controllers
             return new JsonResult(table);
         }
 
-        //ACTUALIZACION
-        [HttpPut]
-        public JsonResult Put(Nosotros emp)
+        [HttpPost]
+        public  JsonResult Create(Comentario comentario)
         {
-            if (emp is null)
-            {
-                throw new ArgumentNullException(nameof(emp));
-            }
 
             string query = @"
-                        update nosotros set 
-                        historia =@historia,
-                        imagen =@imagen
-                         where id_nosotros =@NosotrosId;
-                        
+                       insert into comentario (id, usuario, descripcion) values
+                                                                    (NULL, @usuario, @descripcion);
             ";
 
             DataTable table = new DataTable();
@@ -78,10 +68,8 @@ namespace Reto_4_Restaurante.Controllers
                 mycon.Open();
                 using (MySqlCommand myCommand = new MySqlCommand(query, mycon))
                 {
-                    myCommand.Parameters.AddWithValue("@NosotrosId", emp.id_nosotros);
-                    myCommand.Parameters.AddWithValue("@historia", emp.historia);
-                    myCommand.Parameters.AddWithValue("@imagen", emp.imagen);
-
+                    myCommand.Parameters.AddWithValue("@usuario", comentario.usuario);
+                    myCommand.Parameters.AddWithValue("@descripcion", comentario.descripcion);
 
                     myReader = myCommand.ExecuteReader();
                     table.Load(myReader);
@@ -91,7 +79,34 @@ namespace Reto_4_Restaurante.Controllers
                 }
             }
 
-            return new JsonResult("Updated Successfully");
+            return new JsonResult("Comentario creado exitosamente");
+        }
+
+        [HttpDelete("{id}")]
+        public JsonResult Delete(int id)
+        {
+
+            string query = @"delete from comentario where id=@id";
+
+            DataTable table = new DataTable();
+            string sqlDataSource = _configuration.GetConnectionString("TestAppCon");
+            MySqlDataReader myReader;
+            using (MySqlConnection mycon = new MySqlConnection(sqlDataSource))
+            {
+                mycon.Open(); 
+                using (MySqlCommand myCommand = new MySqlCommand(query, mycon))
+                {
+                    myCommand.Parameters.AddWithValue("@id", id);
+                   
+                    myReader = myCommand.ExecuteReader();
+                    table.Load(myReader);
+
+                    myReader.Close();
+                    mycon.Close();
+                }
+            }
+
+            return new JsonResult("Comentario borrado exitosamente");
         }
 
     }

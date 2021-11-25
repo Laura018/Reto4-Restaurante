@@ -4,6 +4,10 @@
     "\\Reto 4 Restaurante",
     "\\Reto 4 Restaurante\\Controllers"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\Reto 4 Restaurante.sln",
+=======
+  "SelectedNode": "\\Reto 4 Restaurante\\Controllers\\NosotrosController.cs",
+>>>>>>> 44d469ae0b2318f6ecacf356901149a53a7dbacb
   "PreviewInSolutionExplorer": false
 }

@@ -36,6 +36,7 @@ C:\Users\ADMIN\Desktop\Visual studio\Reto 4 Restaurante\Reto 4 Restaurante\obj\D
 C:\Users\ADMIN\Desktop\Visual studio\Reto 4 Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.dll
 C:\Users\ADMIN\Desktop\Visual studio\Reto 4 Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.pdb
 C:\Users\ADMIN\Desktop\Visual studio\Reto 4 Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.genruntimeconfig.cache
+<<<<<<< HEAD
 C:\Users\Naty\Documents\juvenTic\ciclo-4-LaData\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Naty\Documents\juvenTic\ciclo-4-LaData\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Naty\Documents\juvenTic\ciclo-4-LaData\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\Reto 4 Restaurante.exe
@@ -74,3 +75,43 @@ C:\Users\Naty\Documents\juvenTic\ciclo-4-LaData\Reto 4 Restaurante\obj\Debug\net
 C:\Users\Naty\Documents\juvenTic\ciclo-4-LaData\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.dll
 C:\Users\Naty\Documents\juvenTic\ciclo-4-LaData\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.pdb
 C:\Users\Naty\Documents\juvenTic\ciclo-4-LaData\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.genruntimeconfig.cache
+=======
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\Reto 4 Restaurante.exe
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\Reto 4 Restaurante.deps.json
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\Reto 4 Restaurante.runtimeconfig.json
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\Reto 4 Restaurante.runtimeconfig.dev.json
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\Reto 4 Restaurante.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\Reto 4 Restaurante.pdb
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.csproj.AssemblyReference.cache
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.AssemblyInfoInputs.cache
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.AssemblyInfo.cs
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.csproj.CoreCompileInputs.cache
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\staticwebassets\Reto 4 Restaurante.StaticWebAssets.Manifest.cache
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\staticwebassets\Reto 4 Restaurante.StaticWebAssets.xml
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\scopedcss\bundle\Reto 4 Restaurante.styles.css
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.RazorTargetAssemblyInfo.cache
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.csproj.CopyComplete
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.dll
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.pdb
+D:\Cursos\JuvenTic\Módulo 4 - La Data\Reto4_Restaurante\Reto 4 Restaurante\obj\Debug\netcoreapp3.1\Reto 4 Restaurante.genruntimeconfig.cache
+>>>>>>> 44d469ae0b2318f6ecacf356901149a53a7dbacb

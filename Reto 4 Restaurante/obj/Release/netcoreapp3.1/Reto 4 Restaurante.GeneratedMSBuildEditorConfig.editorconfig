@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = Reto_4_Restaurante
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Naty\Documents\juvenTic\ciclo-4-LaData\Reto 4 Restaurante\
+=======
+build_property.ProjectDir = D:\Cursos\JuvenTic\Módulo 4 - La Data\reto4_Restaurante\Reto 4 Restaurante\
+>>>>>>> 44d469ae0b2318f6ecacf356901149a53a7dbacb

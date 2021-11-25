@@ -1,8 +1,13 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
+<<<<<<< HEAD
       "C:\\Users\\Naty\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\Naty\\.nuget\\packages"
+=======
+      "C:\\Users\\Usuario\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Usuario\\.nuget\\packages"
+>>>>>>> 44d469ae0b2318f6ecacf356901149a53a7dbacb
     ]
   }
 }
